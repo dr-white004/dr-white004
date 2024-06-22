@@ -18,7 +18,12 @@ Here are some ideas to get you started:
 
 <h3 align="center">As a driven computer science enthusiast, I leverage my CS50 certificates and AWS Educate badges to drive innovation and growth. With a strong foundation in cloud engineering and web development, I'm passionate about building scalable infrastructure, responsive applications, and contributing to open-source projects. I'm a collaborative team player with a strong work ethic, always eager to learn and share knowledge to drive collective success. I'm excited to bring my skills and enthusiasm to a dynamic team and contribute to projects that make a meaningful impact.</h3>
 
-- 🎓Education: **Cloud Engineering Course, Alt School Africa (20**-20**) Completed an intensive program in cloud engineering, gaining hands-on experience with cloud infrastructure, architecture, and deployment. Developed skills in cloud computing, containerization, and DevOps practices. CS50x: Introduction to Computer Science, Harvard University (Online) Successfully completed Harvard's renowned CS50x course, covering the fundamentals of computer science and programming. Mastered programming concepts, data structures, and algorithms in languages such as C, Python, and JavaScript. CS50w: Web Development, Harvard University (Online) Built upon CS50x foundations, focusing on web development principles, frameworks, and best practices. Created dynamic web applications using HTML, CSS, JavaScript, and frameworks like Flask and Django.**
+- 🎓Education:
+   **Cloud Engineering Course, Alt School Africa (2022-2023) Completed an intensive program in cloud engineering, gaining hands-on experience with cloud infrastructure, architecture, and deployment. Developed skills in cloud computing, containerization, and DevOps practices.**
+  
+  **CS50x: Introduction to Computer Science, Harvard University (Online). Successfully completed Harvard's renowned CS50x course, covering the fundamentals of computer science and programming. Mastered programming concepts, data structures, and algorithms in languages such as C, Python, and JavaScript.**
+  
+  **CS50w: Web Development, Harvard University (Online) Built upon CS50x foundations, focusing on web development principles, frameworks, and best practices. Created dynamic web applications using HTML, CSS, JavaScript, and frameworks like Flask and Django.**
 
 - 😎Achievement: **CS50 Certificates: Earned both CS50x: Introduction to Computer Science and CS50w: Web Development certificates from Harvard University, demonstrating a strong foundation in computer science and web development principles. AWS Educate Badges: Awarded 4 badges from AWS Educate, recognizing proficiency in cloud computing, architecture, and deployment on Amazon Web Services.**
 
