@@ -73,8 +73,12 @@ With hands-on **real-world development experience**, I'm confident in delivering
 
 If you're hiring or building something exciting — I’m available for **remote and contract opportunities**.
 
-📬 [Reach me through my portfolio](https://ademolaportfolio.vercel.app/#contact) or drop a message on GitHub.
+You can reach me via:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ademola-abdulkareem-7a5086282/)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](https://wa.me/2348147486541)  
+Or visit my [portfolio](https://ademolaportfolio.vercel.app/) for more.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dr-white004&style=flat-square&color=brightgreen" alt="Profile Views">
 </p>
+
