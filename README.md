@@ -60,7 +60,6 @@ With hands-on **real-world development experience**, I'm confident in delivering
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dr-white004&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dr-white004&theme=tokyonight" />
 </p>
 
 <p align="center">
