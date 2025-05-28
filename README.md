@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Abdulkareem Muiz</h1>
+<h1 align="center">👋 Hi, I'm Ademola Abdulkareem</h1>
 <h3 align="center">Cloud Engineer | Full Stack Developer | Impact-Driven Builder</h3>
 
 <p align="center">
